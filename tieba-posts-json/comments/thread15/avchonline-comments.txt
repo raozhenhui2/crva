@@ -1,0 +1,2 @@
+Comment(contents=Contents_c(objs=[FragText(text='3q，終於有人了')]), fid=1071443, fname='孤岛危机', tid=4775947803, ppid=97633139008, pid=97635102960, user=UserInfo_c(user_id=1486229770, portrait='tb.1.4fd607ba.Jkb3SUu_kGZMDltT6urOKw', user_name='成高心親王', nick_name_new='成高心親王', level=6, gender=<Gender.MALE: 1>, icons=[], is_bawu=False, is_vip=False, is_god=False, priv_like=<PrivLike.PUBLIC: 1>, priv_reply=<PrivReply.ALL: 1>), reply_to_id=0, floor=4, agree=0, disagree=0, create_time=1473518079, is_thread_author=True)
+
